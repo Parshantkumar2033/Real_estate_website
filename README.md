@@ -1,9 +1,15 @@
-# RK Homes
+# **Real Estate**
 
 This website is for property dealership where a user can buy properties of his/her choice via an agent. The user can also sell properties on this website.
 
-This web-application is developed using the following technologies:
+## Project Description
+![first](image_and_demo/problem1.png)
+![second](image_and_demo/problem1.png)
 
+## Schemas
+![schemas](image_and_demo/schemas.png)
+
+This web-application is developed using the following technologies:
 ## Frontend
 - HTML
 - CSS (including Bootstrap)
@@ -43,6 +49,8 @@ To import the provided database, follow these steps:
 - Install dependencies by running the following command in the project directory:
 `npm install`
 
+## Database(High Level Design)
+![database_structure](image_and_demo/Transaction_records.png)
 
 ## Configuration
 
