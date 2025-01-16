@@ -75,8 +75,10 @@ shows the complete logical structure of a database.
 - HTML
 - CSS (including Bootstrap)
 - JavaScript
+- React.js
 
 ### Backend
+- Express
 - Node.js
 - MySQL
 
